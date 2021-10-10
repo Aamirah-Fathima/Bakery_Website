@@ -1,0 +1,45 @@
+[2021-10-10 10:01:44.407] [exthost] [info] extension host started
+[2021-10-10 10:01:44.600] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-10-10 10:01:44.601] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-10 10:01:44.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-10-10 10:01:44.683] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-10 10:01:44.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-10 10:01:44.696] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-10-10 10:01:45.014] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-10-10 10:01:45.014] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-10 10:01:45.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-10-10 10:01:45.543] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-10 10:01:45.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-10 10:01:45.748] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-10-10 10:01:45.777] [exthost] [info] eager extensions activated
+[2021-10-10 10:01:45.782] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-10-10 10:01:45.782] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-10 10:01:45.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-10-10 10:01:45.825] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-10 10:01:45.836] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-10-10 10:01:45.836] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-10-10 10:02:38.426] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-10 10:02:39.446] [exthost] [info] exiting with code 0
+[2021-10-10 10:02:41.908] [exthost] [info] extension host started
+[2021-10-10 10:02:41.909] [exthost] [info] Skipping acquiring lock for d:\movies\install xamP\htdocs\food-order\PATH_TO_SOME_FOLDER_WHERE_VSCODE_WILL_STORE_TMP_DATA\User\workspaceStorage\81100feed8428d93c5d5b081db223dc4.
+[2021-10-10 10:02:42.112] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-10-10 10:02:42.112] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-10 10:02:42.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-10-10 10:02:42.143] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-10 10:02:42.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-10 10:02:42.155] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-10-10 10:02:42.433] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-10-10 10:02:42.433] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-10 10:02:42.709] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-10-10 10:02:42.710] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-10 10:02:42.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-10 10:02:42.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-10-10 10:02:42.827] [exthost] [info] eager extensions activated
+[2021-10-10 10:02:42.839] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-10-10 10:02:42.839] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-10 10:02:42.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-10-10 10:02:42.858] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-10 10:02:42.868] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-10-10 10:02:42.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/aamir/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-10-10 10:31:09.035] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-10 10:31:10.052] [exthost] [info] exiting with code 0

@@ -1,0 +1,49 @@
+{
+    "telemetry.machineId": "5c8268d3e0b7cc03b029b159d4cc4a4aace86895c0555914ef660c1e7c24ca2f",
+    "openedPathsList": {
+        "entries": [
+            {
+                "folderUri": "file:///d%3A/movies/install%20xamP/htdocs/food-order"
+            }
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///d%3A/movies/install%20xamP/htdocs/food-order",
+            "backupPath": "D:\\movies\\install xamP\\htdocs\\food-order\\PATH_TO_SOME_FOLDER_WHERE_VSCODE_WILL_STORE_TMP_DATA\\Backups\\a90d9173f6e87bf601760169e2e7ae37",
+            "uiState": {
+                "mode": 0,
+                "x": 256,
+                "y": 48,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "D:\\movies\\install xamP\\htdocs"
+}
